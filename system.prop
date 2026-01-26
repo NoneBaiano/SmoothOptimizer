@@ -1,0 +1,11 @@
+windowsmgr.max_events_per_sec=120
+ro.min_pointer_dur=10
+persist.sys.scrollingcache=3
+ro.max.fling_velocity=12000
+ro.min.fling_velocity=8000
+
+debug.egl.swapinterval=1
+touch.pressure.scale=0.01
+
+persist.sys.use_dithering=0
+persist.sys.use_16bpp_alpha=1
