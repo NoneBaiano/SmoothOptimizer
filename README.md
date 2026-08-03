@@ -6,8 +6,7 @@ This module improves the smoothness and scrolling performance of your Android de
 - Reduces system animation duration to 0.75x (faster animations)
 - Increases touch event rate for more responsive touch
 - Adjusts fling velocity for smoother scrolling
-- Enables scrolling cache for better UI performance
-- Lightweight graphics optimizations (dithering off, 16-bit alpha)
+- Enables high refresh rate support
 
 ## License
 This project is licensed under the GNU General Public License v2.0 (GPL-2.0).
