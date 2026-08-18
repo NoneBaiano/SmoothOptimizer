@@ -9,10 +9,6 @@ settings put global animator_duration_scale 0.70
 settings put secure multi_press_timeout 200
 settings put secure long_press_timeout 250
 settings put system pointer_speed 5
-resetprop debug.sf.enable_gl_backpressure 0
-resetprop debug.sf.disable_backpressure 0
-resetprop debug.sf.enable_hwc_vds 1
-
 
 if [ -e /sys/block/zram0 ]; then
     swapoff /dev/block/zram0 2>/dev/null
