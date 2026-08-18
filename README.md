@@ -7,6 +7,7 @@ This module improves the smoothness and scrolling performance of your Android de
 - Increases touch event rate for more responsive touch
 - Configures ZRAM to 1 GB using LZ4 compression
 - Optimizes memory management and cache behavior
+- Automatically restores system animation and input settings when the module is uninstalled
 
 ## License
 This project is licensed under the GNU General Public License v2.0 (GPL-2.0).
