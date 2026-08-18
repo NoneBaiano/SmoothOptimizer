@@ -4,9 +4,9 @@ This module improves the smoothness and scrolling performance of your Android de
 
 ## Features
 - Reduces system animation duration to 0.70x (faster animations)
-- Increases touch event rate for more responsive touch
+- Adjusts long-press, multi-press timeouts for improved touch responsiveness and increases pointer speed
 - Configures ZRAM to 1 GB using LZ4 compression
-- Optimizes memory management and cache behavior
+- Optimizes virtual memory settings for swappiness, dirty ratios and cache pressure
 - Automatically restores system animation and input settings when the module is uninstalled
 
 ## License
